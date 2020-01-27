@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SSR Client</string>
+    <string name="input1">用户名：</string>
+    <string name="input2">密码：</string>
+    <string name="error0">用户名和密码不能为空！</string>
+    <string name="error1">请输入正确的用户名和密码！</string>
+    <string name="error2">未知错误！请检查你的网络连接！</string>
+    <string name="loggingin">正在登录中，请稍等……</string>
+    <string name="loggedin">登录成功！正在获取信息！</string>
+    <string name="welcome">登录您的账号</string>
+    <string name="server">服务器地址：</string>
+    <string name="port">服务器端口：</string>
+    <string name="method">加密：</string>
+    <string name="protocol">协议：</string>
+    <string name="obfs">混淆：</string>
+    <string name="remarks">备注：</string>
+    <string name="password">密码：</string>
+    <string name="login">开始网上冲浪</string>
+    <string name="info">地址：%1$s 端口：%2$d 加密：%3$s 密码：%4$s 协议：%5$s 混淆：%6$s</string>
+    <string name="alert">目前还只能查看节点信息，节点自动连接功能敬请期待！</string>
+    <string name="ok">确定</string>
+</resources>
